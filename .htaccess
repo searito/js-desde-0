@@ -9,5 +9,6 @@ Options +FollowSymLinks
 RewriteEngine On
 RewriteRule ^notacion-de-puntos-y-corchetes/?$ cont/lesson001_notacion_puntos_corchetes.html [L]
 RewriteRule ^funciones/?$ cont/lesson002_funciones.html [L]
+RewriteRule ^metodos-y-objeto-this/?$ cont/lesson003_metodos_y_this.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
