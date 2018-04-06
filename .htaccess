@@ -12,5 +12,6 @@ RewriteRule ^funciones/?$ cont/lesson002_funciones.html [L]
 RewriteRule ^metodos-y-objeto-this/?$ cont/lesson003_metodos_y_this.html [L]
 RewriteRule ^palabra-reservada-new/?$ cont/lesson004_palabra_reservada_new.html [L]
 RewriteRule ^js-game/?$ cont/lesson005_js_game.html [L]
+RewriteRule ^prototipos/?$ cont/lesson006_prototipos.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
