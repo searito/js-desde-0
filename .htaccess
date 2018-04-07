@@ -15,5 +15,6 @@ RewriteRule ^js-game/?$ cont/lesson005_js_game.html [L]
 RewriteRule ^prototipos/?$ cont/lesson006_prototipos.html [L]
 RewriteRule ^funciones-anonimas/?$ cont/lesson007_funciones_anonimas.html [L]
 RewriteRule ^funciones-typeof-e-instanceof/?$ cont/lesson008_funciones_typeof_instanceof.html [L]
+RewriteRule ^arreglos/?$ cont/lesson009_arreglos.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
