@@ -18,5 +18,6 @@ RewriteRule ^funciones-typeof-e-instanceof/?$ cont/lesson008_funciones_typeof_in
 RewriteRule ^arreglos/?$ cont/lesson009_arreglos.html [L]
 RewriteRule ^argumentos/?$ cont/lesson010_argumentos.html [L]
 RewriteRule ^sobrecarga-de-operadores/?$ cont/lesson011_sobrecarga_operadores.html [L]
+RewriteRule ^polimorfismo/?$ cont/lesson012_polimorfismo.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
