@@ -21,5 +21,6 @@ RewriteRule ^sobrecarga-de-operadores/?$ cont/lesson011_sobrecarga_operadores.ht
 RewriteRule ^polimorfismo/?$ cont/lesson012_polimorfismo.html [L]
 RewriteRule ^cuidado-con-funciones-contexto/?$ cont/lesson013_cuidado_funciones.html [L]
 RewriteRule ^objeto-numero/?$ cont/lesson014_objeto_numero.html [L]
+RewriteRule ^objeto-booleano/?$ cont/lesson015_objeto_booleano.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
