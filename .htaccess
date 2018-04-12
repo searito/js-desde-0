@@ -23,5 +23,7 @@ RewriteRule ^cuidado-con-funciones-contexto/?$ cont/lesson013_cuidado_funciones.
 RewriteRule ^objeto-numero/?$ cont/lesson014_objeto_numero.html [L]
 RewriteRule ^objeto-booleano/?$ cont/lesson015_objeto_booleano.html [L]
 RewriteRule ^objeto-string/?$ cont/lesson016_objeto_string.html [L]
+RewriteRule ^objeto-date/?$ cont/lesson017_objeto_date.html [L]
+RewriteRule ^operaciones-con-fechas/?$ cont/lesson018_operaciones_fechas.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
