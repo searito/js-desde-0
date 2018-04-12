@@ -26,5 +26,6 @@ RewriteRule ^objeto-string/?$ cont/lesson016_objeto_string.html [L]
 RewriteRule ^objeto-date/?$ cont/lesson017_objeto_date.html [L]
 RewriteRule ^operaciones-con-fechas/?$ cont/lesson018_operaciones_fechas.html [L]
 RewriteRule ^objeto-math/?$ cont/lesson019_objeto_math.html [L]
+RewriteRule ^expresiones-regulares/?$ cont/lesson020_expresiones_regulares.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
