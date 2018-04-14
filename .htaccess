@@ -30,5 +30,6 @@ RewriteRule ^expresiones-regulares/?$ cont/lesson020_expresiones_regulares.html 
 RewriteRule ^manejo-de-errores/?$ cont/lesson021_manejo_errores.html [L]
 RewriteRule ^cookies/?$ cont/lesson022_cookies.html [L]
 RewriteRule ^funciones-especiales/?$ cont/lesson023_funciones_especiales.html [L]
+RewriteRule ^if-versiones-cortas/?$ cont/lesson024_if_versiones_cortas.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
