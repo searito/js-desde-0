@@ -34,5 +34,6 @@ RewriteRule ^if-versiones-cortas/?$ cont/lesson024_if_versiones_cortas.html [L]
 RewriteRule ^switch-condicional-multiple/?$ cont/lesson025_switch.html [L]
 RewriteRule ^json/?$ cont/lesson026_json.html [L]
 RewriteRule ^while/?$ cont/lesson027_while.html [L]
+RewriteRule ^for/?$ cont/lesson028_for.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
