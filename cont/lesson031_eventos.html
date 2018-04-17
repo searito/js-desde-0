@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JS Desde 0</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.css">
+    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="shortcut icon" href="../img/jslogo.png" type="image/x-icon">
+</head>
+
+<body>
+    <div class="ui container">
+        <h1 class="ui header" style="margin-top: 8%;">
+            <i class="settings icon"></i>
+            <div class="content">
+                Eventos
+                <div class="sub header">Activa Consola Para Ver Ejercicios</div>
+            </div>
+        </h1>
+
+        <div class="ui grid">
+            <div class="four wide column">
+                <button class="ui labeled teal icon button" onclick="evento()">
+                    <i class="hand pointer icon"></i>
+                    Clikeame
+                </button>
+            </div>
+
+            <div class="six wide column">
+                <div class="ui form">
+                    <div class="field">
+                        <input type="text" name="txt_test" id="txt_test" onfocus="evento()" placeholder="Focus">
+                    </div>
+                </div>
+            </div>
+
+            <div class="six wide column">
+                <div class="ui form">
+                    <div class="field">
+                        <input type="text" name="txt_blur" id="txt_blur" onblur="evento()" placeholder="Blur">
+                    </div>
+                </div>
+            </div>
+
+            <div class="six wide column">
+                <div class="ui form">
+                    <div class="field">
+                        <input type="text" name="txt_mouseout" id="txt_mouseout" onmouseout="evento()" placeholder="Mouseout">
+                    </div>
+                </div>
+            </div>
+
+            <div class="six wide column">
+                <div class="ui form">
+                    <div class="field">
+                        <input type="text" name="txt_mouseout" id="txt_ref" placeholder="Referencia Externa">
+                    </div>
+                </div>
+            </div>
+
+            <div class="four wide column">
+                <button class="ui labeled olive icon button" id="btn_evento">
+                    <i class="recycle icon"></i>
+                    Clikeame
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="../js/clase031_eventos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.js"></script>
+</body>
+
+</html>
