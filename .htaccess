@@ -39,5 +39,6 @@ RewriteRule ^rotulando-ciclos/?$ cont/lesson029_rotulando_ciclos.html [L]
 RewriteRule ^funciones-de-tiempo/?$ cont/lesson030_funciones_tiempo.html [L]
 RewriteRule ^eventos/?$ cont/lesson031_eventos.html [L]
 RewriteRule ^bloqueando-click-derecho/?$ cont/lesson032_bloqueando_derecho.html [L]
+RewriteRule ^evento-onsubmit-y-parametros-url/?$ cont/lesson033_evento_onsubmit.html [L]
 #RewriteRule ^Clientes/?$ content/clientes.php [L]
 #RewriteRule ^([a-z0-9/]+)$ index.php?view=$1
